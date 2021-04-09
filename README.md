@@ -51,8 +51,16 @@ node operators, staking as a service, ejemplos de servicios…
 blockchain as a service
 servicios en aws, google, azure, ibm
 consensys, infura, ganache, testnets caracterìsticas y diferencias
+consortiums: corda, kaleido, 
 
+----
+## 3. buenas prácticas devops y devSecOps para web3 -- 
 
+automatización
+
+orquestación
+
+seguridad
 
 Extra:
 
@@ -64,15 +72,3 @@ https://consensys.net/blog/developers/how-to-save-time-on-devops-and-scale-with-
 
 Ejemplo de una búsqueda, chequear la sección de Expectations
 https://www.jobsinblockchain.io/blockchain-jobs/python-devops-lead-web3ethereum-126
-
-
-consortiums: corda, kaleido, 
-
-----
-## 3. buenas prácticas devops y devSecOps para web3 -- 
-
-automatización
-
-orquestación
-
-seguridad
