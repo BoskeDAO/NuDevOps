@@ -9,7 +9,7 @@ Pre-requisitos:
 
 Table of Content
 
-1. Web3 infrastructure protocols and utility tokens, fundamentals and state of the art
+## 1. Web3 infrastructure protocols and utility tokens, fundamentals and state of the art
 
 Web3 Stack ... business models and tech stack
 convergence model de outliers ventures.
@@ -48,7 +48,7 @@ Consortium networks:
 
 
 ----
-2. aspectos tècnicos de infraestructura web3 
+## 2. aspectos tècnicos de infraestructura web3 
 
 node operators, staking as a service, ejemplos de servicios… 
 
@@ -73,7 +73,7 @@ https://www.jobsinblockchain.io/blockchain-jobs/python-devops-lead-web3ethereum-
 consortiums: corda, kaleido, 
 
 ----
-2. buenas prácticas devops y devSecOps para web3 -- 
+## 3. buenas prácticas devops y devSecOps para web3 -- 
 
 automatización
 
