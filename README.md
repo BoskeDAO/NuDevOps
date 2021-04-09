@@ -16,10 +16,10 @@ Convergence model de outliers ventures.
 * https://outlierventures.io/research/introducing-the-convergence-ecosystem/
 * https://outlierventures.io/the-convergence-stack/
 
-### Contexto. Mastering Ethereum
+### Mastering Ethereum
 mastering ethereum 1: https://github.com/ethereumbook/ethereumbook
 
-### state of the art:  composability, blockchain 3.0, interchain, interoperability, security, scalability, L2, rollouts, sharding, parachains, plasm, polygon, etc etc etc…. qué es web3-devops??
+### web3-devops - state of the art:  composability, blockchain 3.0, interoperability, trilemma, oracle problem, security, scalability, L2, rollouts, sharding, parachains, plasm, polygon. 
 
 ### exploring ethereum 2: Escalabilidad - L2 
 https://www.youtube.com/watch?v=BgCgauWVTs0&ab_channel=Finematics
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=BgCgauWVTs0&ab_channel=Finematics
 	Unos meses atrás analizamos EOSio vs Hyperledger Besu como dos de las opciones de blockchains permisionadas para un proyecto del BID y nos gustó más Besu por ser 100% open source (Apache 2.0), tener un cliente java compatible con Ethereum, ofrecer consenso IBFT 2.0 (Istanbul Byzantine Fault Tolerant) y el apoyo de Consensys, un actor central en la industria blockchain.
 
 ----
-## 2. aspectos tècnicos de infraestructura web3 
+## 2. web3 infrastructure implementation, services, solutions, XAsAService, startups,   
 
 node operators, staking as a service, ejemplos de servicios… 
 blockchain as a service
@@ -53,7 +53,9 @@ servicios en aws, google, azure, ibm
 consensys, infura, ganache, testnets caracterìsticas y diferencias
 
 
-MATERIAL A REVISAR:
+
+Extra:
+
 Cursos en Udemy:
 https://vomtom.at/thomas-wiesner-courses-books/
 
